@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/credentials.txt</file>
+        <file>backgrounds/bg.png</file>
+        <file>backgrounds/loading.mp4</file>
+        <file>components/DateTimePanel.qml</file>
+        <file>components/LoginPanel.qml</file>
+        <file>components/PlayerPanel.qml</file>
+        <file>icons/next.png</file>
+        <file>icons/play.png</file>
+        <file>icons/power.svg</file>
+        <file>icons/previous.png</file>
+        <file>icons/restart.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/sleep.svg</file>
+        <file>icons/snow-buried-tales.jpg</file>
+        <file>sounds/moonlike_smile.mp3</file>
+        <file>sounds/snow_buried_tales.mp3</file>
+        <file>sounds/unfinished_frescoes.mp3</file>
+        <file>1.png</file>
+        <file>transparent.frag.qsb</file>
+        <file>backgrounds/morningbg.mp4</file>
+        <file>backgrounds/nightbg.mp4</file>
+    </qresource>
+</RCC>
