@@ -148,7 +148,7 @@ Standalone build doesn't require any dependancies just download and unzip Genshi
 
 ## Installation
 
-1. Download the latest release from the [Genshin Theme for Windows Lock Screen repository](https://github.com/yourusername/yourrepository/releases).
+1. Download the latest release from the [Genshin Theme for Windows Lock Screen repository](https://github.com/nicefaa6waa/Genshin-Windows-Login/releases/tag/Build).
 2. Unzip the downloaded file to your desired location.
 3. Run standalone executable. (Note that you can't change username and password in standalone release and default username and password is genshin:genshin123)
 
